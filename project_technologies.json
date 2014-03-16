@@ -1,10 +1,10 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google speech regcognition"
         ],
         "platforms": [
-            "insert platforms"
+            "Web"
         ],
         "toolkits": [
             "insert toolkits"
