@@ -4,9 +4,13 @@
             "Google speech regcognition"
         ],
         "platforms": [
-            "Web"
+            "Google Chrome"
         ],
         "toolkits": [
+            "d3js",
+            "angularJS"
+        ],
+        "language": [
             "insert toolkits"
         ]
     },
