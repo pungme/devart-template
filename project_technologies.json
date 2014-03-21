@@ -3,6 +3,11 @@
         "apis": [
             "Google speech regcognition"
         ],
+        "languages": [
+            "javascript",
+            "html",
+            "css"
+        ],
         "platforms": [
             "Google Chrome"
         ],
