@@ -6,7 +6,8 @@
         "languages": [
             "javascript",
             "html",
-            "css"
+            "css",
+            "php"
         ],
         "platforms": [
             "Google Chrome"
