@@ -1,23 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "Google speech regcognition"
-        ],
-        "languages": [
-            "javascript",
-            "html",
-            "css",
-            "php"
+            "Google speech regcog",
+            "Google+ API"
         ],
         "platforms": [
             "Google Chrome"
         ],
         "toolkits": [
             "d3js",
-            "angularJS"
-        ],
-        "language": [
-            "insert toolkits"
+            "angularJS",
+            "javascript",
+            "html",
+            "css",
+            "php"
         ]
     },
     "themes": [
