@@ -1,5 +1,4 @@
-# Project Title
-Insert the name of your project
+# You as a Stranger
 
 ## Authors
 
