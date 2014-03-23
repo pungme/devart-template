@@ -14,4 +14,4 @@ I think I'm kind of done for the concept, for my next post I'll move on to techn
 
 See you on next post ! Peace ! 
 
-![Draft Project#1](../project_images/draft1.jpg?raw=true "Draft1")
+![Draft Project#1](../project_images/draft.jpg?raw=true "Draft1")
