@@ -1,3 +1,3 @@
 This is my initial draft of the project :
 
-<img src="../project_images/draft1.jpg" alt="Drawing"/>
+![Draft Project#1](../project_images/darf1.jpg?raw=true "Draft1")
