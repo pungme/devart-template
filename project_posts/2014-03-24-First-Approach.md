@@ -12,7 +12,7 @@ Here is the sample code for the google speech api
 
 The api is pretty neat and I'm very surprise how easy to implement this.
 
-![prototype#1](../project_images/prototype.png?raw=true "Prototype")
+![prototype#1](../project_images/prototype1.png?raw=true "Prototype")
 
 Also, the microphone stuff. here is the sample how can I get the rms value to calculate the decibel.
 
