@@ -8,7 +8,7 @@ Let me explain you how this works ( So you don't have to read that fuzzy image b
 
 This serve two things. First, another hidden community and second, the honesty of what we are thinking of someone. As I've mentioned on my previous post, to speak it out loud is more honest, you said what you're thinking(most of the time), it's more fresh and at somepoint, more intersting. 
 
-I believe that the good art is the art that made you "felt" something. It should be simple enough not to confuse audience and also grab attention from most of people. I've thought throughly about it a lot and realize that the key is to make something about "them", about the audienc, about the subject. So that we did not make something too far-fetch from them. And also, the second important key is by using the something (a platform) as easy as just going to some webpage to do it. This will eliminate walls ofhesitation and influence people to have more contribution.
+I believe that the good art is the art that made you "feel" something. It should be simple enough not to confuse audience and also grab attention from most of people. I've thought throughly about it a lot and realize that the key is to make something about "them", about the audienc, about the subject. So that we did not make something too far-fetch from them. And also, the second important key is by using the something (a platform) as easy as just going to some webpage to do it. This will eliminate walls ofhesitation and influence people to have more contribution.
 
 I think I'm kind of done for the concept, for my next post I'll move on to technical stuff that I've been trying to implement. 
 
