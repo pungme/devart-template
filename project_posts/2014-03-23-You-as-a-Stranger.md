@@ -6,6 +6,8 @@ Let me explain you how this works ( So you don't have to read that fuzzy image b
 
 ![Story bord#1](../project_images/stybd.jpg?raw=true "Story Bord")
 
-I believe that the good art is the art that made you feel something. It should be simple enough not to confuse audience and also grab attention from mass group of people. the key is First is the internet and second is the something (as a platform) as easy as go to som webpage to do it
+This serve two things. First, hidden community and second, the honesty of what we are thinking of someone. As I've mentioned on my previous post, to speak it out loud is more honest to what you're thinking, it's more fresh and at somepoint, more intersting 
+
+I believe that the good art is the art that made you feel something. It should be simple enough not to confuse audience and also grab attention from mass group of people. the key is First is the internet and second is the something (as a platform) as easy as just going to some webpage to do it.
 
 ![Draft Project#1](../project_images/draft1.jpg?raw=true "Draft1")
