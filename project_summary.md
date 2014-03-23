@@ -1,5 +1,4 @@
-# Project Title
-Insert the name of your project
+# You as a Stranger
 
 ## Authors
 
@@ -12,11 +11,18 @@ Coming soon...
 Coming soon...
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+Coming soon... 
 ```
-function test() {
-  console.log("Printing a test");
-}
+  var buf = new Uint8Array(2048);
+  analyser.getByteTimeDomainData(buf) //get buf 
+	if (buf.length < (SIZE + MAX_SAMPLES - MIN_SAMPLES))
+		return;  // Not enough data
+
+	for (var i=0;i<SIZE;i++) {
+		var val = (buf[i] - 128)/128;
+		rms += val*val;
+	}
+	rms = Math.sqrt(rms/SIZE);
 ```
 ## Links to External Libraries
 Coming soon...
