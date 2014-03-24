@@ -1,6 +1,6 @@
 Hello everybody.
 
-Just get back from my workplace and have a short look on other's project. Dude, thst's make me freak out already LOL, you guys are such a magician! But life goes on, let's talk about my today's progress. :) 
+Just get back from my workplace and have a short look on other's project. Dude, that's make me freak out already LOL, you guys are such a magician! But life goes on, let's talk about my today's progress. :) 
 
 Now I've got everything running on my private server, get the camera working with a pretty simple interface. also successfully push the base64data png to my private server. I will deploy as a prototype soon. Here are some sample code for the camera canvas.
 
