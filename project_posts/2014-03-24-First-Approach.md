@@ -14,7 +14,7 @@ The API is pretty neat and I'm very surprise how easy it is in order to implemen
 
 ![prototype#1](../project_images/prototype1.png?raw=true "Prototype")
 
-Also, the microphone stuff. here is the sample how I can get the rms value to calculate the decibel.
+Also, the microphone stuff, here is the sample how I can get the rms value to calculate the decibel.
 
 ```javascript
   var buf = new Uint8Array(2048);
