@@ -12,6 +12,6 @@ I believe that the good art is the art that made you "feel" something. It should
 
 I think I'm kind of done for the concept. For my next post, I'll move on to technical stuff that I've been trying to implement. 
 
-See you on next post ! Peace ! 
+See you on next post !
 
 ![Draft Project#1](../project_images/draft.jpg?raw=true "Draft1")
