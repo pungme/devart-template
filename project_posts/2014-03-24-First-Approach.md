@@ -33,7 +33,7 @@ Also, the microphone stuff, here is the sample how I can get the rms value to ca
 
 Second, Web-cam, I'll work on webcam tomorrow, to take a photo and store it into the server. This shouldn't be hard, based on what I've been googled around. There are plenty of examples that I can follow.
 
-Third, the Stranger Alogorithm, this will be the core part and also the heart of application. At first, it looks simple but turns out more complicated than I thought. I still have no idea yet but I will update this very soon. 
+Third, the Stranger Alogorithm, this will be the core part and also the heart of application. At first, it looks simple but turns out to be more complicated than I thought. I still have no idea yet but I will update this very soon. 
 
 Peace !
 
