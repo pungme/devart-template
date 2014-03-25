@@ -1,6 +1,6 @@
-Here we go ! Now let's talk about technical stuff, I can break down my project into 3 main task. 
+Here we go ! Now let's talk about technical stuff, I can break down my project into 3 main tasks. 
 
-First, Speech regcognition or text-to-speech. I'm using google text-to-speech api to handle all the magic happened under the hood (I hope google will keep it "free" for a while, right ?). My initial design is to have a simple circle on the center of the screen, and the size of the circle represent the volume of the voice. I'm using d3js to handle all the smooth animation. It looks okay now but still need a lot of work on design (well, the dotted border is just for the development). You can see it in-action in the video below.
+First, Speech regcognition or text-to-speech. I'm using google text-to-speech API to handle all the magic happened under the hood (I hope google will keep it "free" for a while, right ?). My initial design is to have a simple circle on the center of the screen, and the size of the circle represents the volume of the voice. I'm using d3js to handle all the smooth animation. It looks OK now but still need a lot of works on design (well, the dotted border is just for the development). You can see it in-action in the video below.
 
 Here is the sample code for the google speech api
 
