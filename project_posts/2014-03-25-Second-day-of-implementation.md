@@ -19,9 +19,9 @@ and for the base64decode
     $success = file_put_contents($filepath, base64_decode($imgsrc));
 ```
 
-I know, I know, it's not the most complicate code in the world, but yeah, that's what I've got so far for the camera. pretty simple eh ?
+I know, I know, it's not the most complicated code in the world, but yeah, that's what I've got so far for the camera. Pretty simple eh ?
 
-In my local machine everything is kind of works fine with some bug. I've realized taht the technical stuff of my project is pretty simple, maybe too simple... , but I think for the concept is quite strong. About the stranger algorithm, I'm just random it for now, just hope I'll figure something out before this friday. I've push all work-in-progress source over here you guys can check it out here 
+In my local machine, everything is kind of works fine with some bug. I've realized that the technical stuff of my project is pretty simple, maybe too simple... , but I think for the concept is quite strong. About the stranger algorithm, I'm just random it for now, just hope I'll figure something out before this friday. I've push all work-in-progress source over here, you guys can check it out here 
 
 [https://github.com/pungme/codeart](https://github.com/pungme/codeart)
 
