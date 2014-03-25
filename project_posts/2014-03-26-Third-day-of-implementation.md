@@ -10,4 +10,4 @@ As I said, core application is done without any interface design, I still need t
 
 Phew ! 2 days to go ! Good sign is, I started to feel the presence of my application, the more I did the more I felt relief and calm. I'm a bit surprise myself that I can do this thing within a short period of time(1 week) But I'm aware, comparing to other project, it's like day and night. But what ever the results is, it's fine for me :)
 
-[YouAsAStranger](https://github.com/pungme/codeart)
+[YouAsAStranger](https://github.com/pungme/youasastranger)
