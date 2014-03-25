@@ -2,7 +2,7 @@ Here we go ! Now let's talk about technical stuff, I can break down my project i
 
 First, Speech regcognition or text-to-speech. I'm using google text-to-speech API to handle all the magic happened under the hood (I hope google will keep it "free" for a while, right ?). My initial design is to have a simple circle on the center of the screen, and the size of the circle represents the volume of the voice. I'm using d3js to handle all the smooth animation. It looks OK now but still need a lot of works on design (well, the dotted border is just for the development). You can see it in-action in the video below.
 
-Here is the sample code for the google speech api
+Here is the sample code for the google speech API
 
 ```javascript
   var recognition = new webkitSpeechRecognition();    
@@ -10,11 +10,11 @@ Here is the sample code for the google speech api
   recognition.interimResults = true;
 ```
 
-The api is pretty neat and I'm very surprise how easy to implement this.
+The API is pretty neat and I'm very surprise how easy it is in order to implement this.
 
 ![prototype#1](../project_images/prototype1.png?raw=true "Prototype")
 
-Also, the microphone stuff. here is the sample how can I get the rms value to calculate the decibel.
+Also, the microphone stuff. here is the sample how I can get the rms value to calculate the decibel.
 
 ```javascript
   var buf = new Uint8Array(2048);
@@ -31,9 +31,9 @@ Also, the microphone stuff. here is the sample how can I get the rms value to ca
   rms = Math.sqrt(rms/SIZE);
 ```
 
-Second, Web-cam. I'll work on webcam tomorrow, to take a photo and store it to the server. This shouldn't be hard, based on what I've been googled around. There are plenty of example that I can follow.
+Second, Web-cam, I'll work on webcam tomorrow, to take a photo and store it into the server. This shouldn't be hard, based on what I've been googled around. There are plenty of examples that I can follow.
 
-Third, The Stranger Alogorithm. This will be the core part, the heart of application. At first it looks simple but turns out more complicate than I thought. I still have no idea yet, but I will update this very soon. 
+Third, the Stranger Alogorithm, this will be the core part and also the heart of application. At first, it looks simple but turns out more complicated than I thought. I still have no idea yet but I will update this very soon. 
 
 Peace !
 
