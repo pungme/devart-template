@@ -6,7 +6,7 @@
 
 ## Source Project
 
-[https://github.com/pungme/codeart](https://github.com/pungme/codeart)
+[You as a stranger](https://github.com/pungme/youasastranger)
 
 ## Description
 Coming soon...
