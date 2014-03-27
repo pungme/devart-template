@@ -4,6 +4,6 @@ As I said, core application is done without any interface design, I still need t
 
 ![prototype#2](../project_images/prototype2.png?raw=true "Prototype")
 
-Phew ..! 2 days to go ! 
+Phew .. 2 days to go !  BTW, why this post keping gone from my devarts page ? 
 
 [YouAsAStranger](https://github.com/pungme/youasastranger)
