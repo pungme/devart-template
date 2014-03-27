@@ -6,31 +6,16 @@
 
 ## Source Project
 
-[You as a stranger](https://github.com/pungme/youasastranger)
+[You as a Stranger](https://github.com/pungme/youasastranger)
 
 ## Description
-Coming soon...
+Have you ever wonder yourself as a stranger ? This experiment project will let you discover you from another aspect that you've never seen before. 
+
+With a 3 simple step. We will take your email, photo and anyone who dropped by your photo will talk about you. I used the google speech-to-text api to convert voice to text and then send it to you by mail. Because I believe that by talking, the thoughts are more honest and true. Moreover, you can be a part of the stranger also, by just say the thought to the stranger which appear on the browser. 
+
+The design on the talking page was influenced from the poster of "The Social Network" movie where the typo caption fly over the Jesse Einsenberg face. It build the impressive and such an impact piece of advertisement.
+
+Have fun, Strangers !
 
 ## Link to Prototype
-Coming soon...
-
-## Example Code
-Coming soon... 
-```
-  var buf = new Uint8Array(2048);
-  analyser.getByteTimeDomainData(buf) //get buf 
-	if (buf.length < (SIZE + MAX_SAMPLES - MIN_SAMPLES))
-		return;  // Not enough data
-
-	for (var i=0;i<SIZE;i++) {
-		var val = (buf[i] - 128)/128;
-		rms += val*val;
-	}
-	rms = Math.sqrt(rms/SIZE);
-```
-## Links to External Libraries
-Coming soon...
-
-## Images & Videos
-Coming soon...
-
+[You as a Stranger](http://pungme.com/youasastranger)
